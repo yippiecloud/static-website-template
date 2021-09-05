@@ -1,0 +1,5 @@
+{
+  "type": "static",
+  "environment": "production",
+  "description": "A yippie cloud template to build and deploy a static website."
+}
